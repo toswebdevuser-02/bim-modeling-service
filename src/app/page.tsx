@@ -21,7 +21,7 @@ export default function Home() {
               />
             </div>
             <h1 className="text-4xl md:text-5xl font-extrabold font-headline tracking-tight text-foreground leading-tight mb-2">
-              Leading BIM Service Providers that
+              Leading BIM Service Providers
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground">
               Innovators Driving the Future of Architecture and Design
